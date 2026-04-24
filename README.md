@@ -1,18 +1,35 @@
 <h1 align="left">Hello. I'm DANS.</h1>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danincie&theme=transparent" width="100%" />
+<table style="width: 100vw; max-width: 100vw; margin: 0; border-collapse: collapse; border-radius: 20px; overflow: hidden; border: none;">
+  <tr>
+    <td colspan="2" style="padding: 0; border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danincie&theme=transparent" 
+           style="width: 100vw; max-width: 100vw; display: block; border: none;" />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danincie&theme=transparent" width="49.5%" align="left" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danincie&theme=transparent" width="49.5%" align="right" />
+<table style="width: 100vw; max-width: 100vw; margin: 0; border-collapse: collapse; border-radius: 20px; overflow: hidden; border: none;">
+  <tr>
+    <td style="width: 50vw; padding: 0; border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danincie&theme=transparent" 
+           style="width: 50vw; max-width: 50vw; display: block; border: none;" />
+    </td>
+    <td style="width: 50vw; padding: 0; border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danincie&theme=transparent" 
+           style="width: 50vw; max-width: 50vw; display: block; border: none;" />
+    </td>
+  </tr>
+</table>
+
+<p align="center" style="width: 100%; max-width: 100vw; display: flex; justify-content: center; margin: 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" alt="Snake animation" style="width: 100vw; max-width: 100%;" />
+  </picture>
 </p>
 
-<br clear="both" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" alt="Snake animation" width="100%" />
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<p align="center" style="margin: 0;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100vw; max-width: 100vw; display: block;">
+</p>
