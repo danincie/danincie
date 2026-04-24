@@ -1,21 +1,19 @@
 <h1 align="left">Hello. I'm DANS.</h1>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danincie&theme=transparent" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danincie&theme=transparent" width="99%" />
 </p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danincie&theme=transparent" width="49.5%" align="left" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danincie&theme=transparent" width="49.5%" align="right" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danincie&theme=transparent" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danincie&theme=transparent" width="49%" />
 </p>
 
-<br clear="both"/> 
-
-<p align="center" style="margin-top: 15px;">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" alt="Snake animation" width="100%" />
+    <img src="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" alt="Snake animation" width="99%" />
   </picture>
 </p>
 
