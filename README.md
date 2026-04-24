@@ -1,22 +1,17 @@
 <h1 align="left">Hello. I'm DANS.</h1>
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danincie&theme=transparent" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danincie&theme=transparent" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danincie&theme=transparent" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danincie&theme=transparent" width="100%" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danincie&theme=transparent" width="49.5%" align="left" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danincie&theme=transparent" width="49.5%" align="right" />
+</p>
+
+<br clear="both"/> 
+
+<p align="center" style="margin-top: 15px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danincie/danincie/output/snake-light.svg" />
